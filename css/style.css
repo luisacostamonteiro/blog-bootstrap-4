@@ -2,7 +2,7 @@ body {
   background: #ccc url("../images/photography.png") repeat;
   font-family: "Inconsolata", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 18.2px;
   line-height: 1.9;
   color: #6c757d; }
 
@@ -474,8 +474,8 @@ header {
   display: block;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
-  transition: .3s all ease;
-  margin-bottom: 30px;
+  transition: .4s all ease;
+  margin-bottom: 28px;
   position: relative; }
   .blog-entries .blog-entry:hover, .blog-entries .blog-entry:focus {
     opacity: .7;
